@@ -3,4 +3,5 @@ pandas
 matplotlib
 seaborn
 statsmodels
+uvicorn
 scikit-learn==1.4.1.post1
